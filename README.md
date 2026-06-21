@@ -38,7 +38,7 @@ mcp-client/            ← Groq LLM agent that calls the gateway
 │   └── requirements.txt
 │
 ├── mcp-client/
-│   ├── agent_rest_mcp.py   # Groq LLM agent
+│   ├── agentic_client.py   # Groq LLM agent
 │   └── .env                # GROQ_API_KEY
 │
 └── README.md
